@@ -6,13 +6,27 @@
     <description>Recent content in Tags on yourkindlyfriend</description>
     <generator>Hugo</generator>
     <language>zh-tw</language>
-    <lastBuildDate>Sat, 24 May 2025 06:27:47 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 24 May 2025 10:07:47 +0800</lastBuildDate>
     <atom:link href="https://yourkindlyfriend.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Game</title>
       <link>https://yourkindlyfriend.github.io/tags/game/</link>
-      <pubDate>Sat, 24 May 2025 06:27:47 +0800</pubDate>
+      <pubDate>Sat, 24 May 2025 10:07:47 +0800</pubDate>
       <guid>https://yourkindlyfriend.github.io/tags/game/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>New</title>
+      <link>https://yourkindlyfriend.github.io/tags/new/</link>
+      <pubDate>Sat, 24 May 2025 10:07:47 +0800</pubDate>
+      <guid>https://yourkindlyfriend.github.io/tags/new/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Python</title>
+      <link>https://yourkindlyfriend.github.io/tags/python/</link>
+      <pubDate>Sat, 24 May 2025 10:07:47 +0800</pubDate>
+      <guid>https://yourkindlyfriend.github.io/tags/python/</guid>
       <description></description>
     </item>
     <item>
@@ -23,24 +37,10 @@
       <description></description>
     </item>
     <item>
-      <title>New</title>
-      <link>https://yourkindlyfriend.github.io/tags/new/</link>
-      <pubDate>Sat, 24 May 2025 06:27:47 +0800</pubDate>
-      <guid>https://yourkindlyfriend.github.io/tags/new/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Photos</title>
       <link>https://yourkindlyfriend.github.io/tags/photos/</link>
       <pubDate>Sat, 24 May 2025 06:27:47 +0800</pubDate>
       <guid>https://yourkindlyfriend.github.io/tags/photos/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Python</title>
-      <link>https://yourkindlyfriend.github.io/tags/python/</link>
-      <pubDate>Sat, 24 May 2025 06:27:47 +0800</pubDate>
-      <guid>https://yourkindlyfriend.github.io/tags/python/</guid>
       <description></description>
     </item>
   </channel>
