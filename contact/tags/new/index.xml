@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>yourkindlyfriend</title>
-    <link>https://yourkindlyfriend.github.io/</link>
-    <description>Recent content on yourkindlyfriend</description>
+    <title>New on yourkindlyfriend</title>
+    <link>https://yourkindlyfriend.github.io/tags/new/</link>
+    <description>Recent content in New on yourkindlyfriend</description>
     <generator>Hugo</generator>
     <language>zh-tw</language>
     <lastBuildDate>Sat, 24 May 2025 10:07:47 +0800</lastBuildDate>
-    <atom:link href="https://yourkindlyfriend.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://yourkindlyfriend.github.io/tags/new/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>初步踏入股票殿堂</title>
       <link>https://yourkindlyfriend.github.io/blog/stock2/</link>
