@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>English Learning on yourkindlyfriend</title>
+    <link>http://localhost:62072/categories/english-learning/</link>
+    <description>Recent content in English Learning on yourkindlyfriend</description>
+    <generator>Hugo</generator>
+    <language>zh-tw</language>
+    <atom:link href="http://localhost:62072/categories/english-learning/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>培養英文思維</title>
+      <link>http://localhost:62072/blog/english-learning/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:62072/blog/english-learning/</guid>
+      <description>&lt;h2 id=&#34;搞定報價&#34;&gt;搞定報價&lt;/h2&gt;&#xA;&lt;p&gt;當給客人報價的時候：&lt;/p&gt;&#xA;&lt;p&gt;Attached is our quotation.Please refer to the quote when placing your order on this customer&amp;rsquo;s behalf.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
