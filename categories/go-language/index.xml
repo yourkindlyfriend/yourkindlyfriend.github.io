@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Go Language on yourkindlyfriend</title>
+    <link>http://localhost:1313/categories/go-language/</link>
+    <description>Recent content in Go Language on yourkindlyfriend</description>
+    <generator>Hugo</generator>
+    <language>zh-tw</language>
+    <lastBuildDate>Wed, 18 Jun 2025 09:09:47 +0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/go-language/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>總經第一課：基本面</title>
+      <link>http://localhost:1313/blog/financial/</link>
+      <pubDate>Wed, 18 Jun 2025 09:09:47 +0800</pubDate>
+      <guid>http://localhost:1313/blog/financial/</guid>
+      <description>&lt;h3 id=&#34;總經第一課基本面&#34;&gt;總經第一課：基本面&lt;/h3&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/people.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/2.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;由下而上致勝的關鍵在找尋物美價廉的公司&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;top town 由上而下的則會是影響全局的系統性風險&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/3.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/4.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;欣賞一段投資大師說的話&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
